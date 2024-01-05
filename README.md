@@ -1,6 +1,6 @@
 # portfolio
 
-I have created a new branch kanhaiya and pushed my up-to-date code in it
+I have created a new branch kanhaiya-dev and pushed my up-to-date code in it
 
 how to access ->
         go to the correct directory new-app
